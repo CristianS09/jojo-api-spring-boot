@@ -13,3 +13,5 @@ Neste projeto, foi desenvolvido uma api para gerenciar personagens de Jojo utili
 - Banco de dados: **H2🎲** para armazenar os dados em memória;
 - **JPA** + **Hibernate** para o mapeamento objeto-relacional;
 - **Swagger UI 📝** Para documentar a api;
+
+ Imagens e descrição dos personagens foram retirados de: https://www.fandom.com/
