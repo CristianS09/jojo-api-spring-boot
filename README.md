@@ -6,7 +6,7 @@ Neste projeto, foi desenvolvido uma api para gerenciar personagens de Jojo utili
 
 [![api.png](https://i.postimg.cc/Njq4d4DW/api.png)](https://postimg.cc/Cz7k1bWN)
 
-## tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 - **Java☕**;
 - Framework: **Spring Boot🍃**;
